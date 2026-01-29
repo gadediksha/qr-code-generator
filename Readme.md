@@ -15,10 +15,14 @@ Generate **custom QR codes** with your own colors and embed a **center logo** ea
 
 ## 📂 Project Structure
 qr-code-generator/
-│
+
+
 ├── main.py # Python script to generate QR code
+
 ├── logo.png # Logo to embed in the QR code
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project description
 
 
@@ -35,8 +39,11 @@ cd qr-code-generator
 2.pip install -r requirements.txt
 
 ```
+
 3.QR code will be generated as:
 final_qr.png
+
+```
 4.Scan it using any QR code scanner 📱
 
 ## 🎨 Customization
