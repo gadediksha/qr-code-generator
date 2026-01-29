@@ -74,7 +74,7 @@ logo_size = qr_width // 5
 Made with 💜 and 🖤 for the perfect QR code experience!
 
 # Thank You...
-# Diksha Gade
+# ✍️ Diksha Gade
 # BCA
 
 
